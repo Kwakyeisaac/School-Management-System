@@ -45,3 +45,6 @@ Licensing
 Distributed under the MIT License. See LICENSE for more information.
 
 Thank you for checking out our project! For further inquiries, please feel free to contact us via our LinkedIn profiles or through the provided contact details.
+![sreensh 1](https://github.com/Kwakyeisaac/School-Management-System/assets/133412935/0c0008f3-7f0a-4d46-ab14-00757e29d78b)
+![screensh 2](https://github.com/Kwakyeisaac/School-Management-System/assets/133412935/79fa77e9-86fc-450d-a683-89b4a5bf39b2)
+![screensh 3](https://github.com/Kwakyeisaac/School-Management-System/assets/133412935/222994f4-f8d0-4027-9a85-29d5c0266b0c)
