@@ -5,7 +5,7 @@ Introduction
 Welcome to the School Management System for Basic Education in Ghana. This project aims to streamline administrative tasks, enhance communication, and provide a robust platform for managing school operations effectively. Our solution addresses the key challenges faced by schools in Ghana, ensuring efficient management of student records, courses, grades, and more.
 
 Deployed Site : https://ijaygodswil93.wixsite.com/school-management-sy 
-[Final Project Blog Article](http://your-blog-article-url.com)  
+Final Project Blog Article : http://your-blog-article-url.com)  
 Author's LinkedIn : https://www.linkedin.com/in/isaac-love-631833179
 
 Installation
