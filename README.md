@@ -1,3 +1,5 @@
+SMS README ![screensh 4](https://github.com/Kwakyeisaac/School-Management-System/assets/133412935/cd28fb29-986a-499c-88ec-022e102938e3)
+
 Project Name: School Management System Software
 
 Introduction
